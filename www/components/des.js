@@ -3,7 +3,7 @@ window.onload = function(){
     function retorno(){
 
     }
-    navigator.notification.alert("Pani no sistema alguém me desfigurou!!!!", retorno, "Be Careful B****", "Configurade");
+    navigator.notification.alert("Teste alerta", retorno, "Cuidado", "Ok mano");
   });
 
   document.querySelector("#btalerta2").addEventListener('click', function(){
