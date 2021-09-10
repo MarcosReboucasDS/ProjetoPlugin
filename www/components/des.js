@@ -18,7 +18,7 @@ window.onload = function(){
     ['Sim','Não']);
     });
 
-     document.querySelector("#btalerta2").addEventListener("click", function (){
+     document.querySelector("#btalerta3").addEventListener("click", function (){
     navigator.notification.beep(1);
     });
 }
